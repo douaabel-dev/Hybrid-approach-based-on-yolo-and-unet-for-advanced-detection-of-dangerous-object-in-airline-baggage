@@ -1,0 +1,19 @@
+path: C:/Users/Douaa Belhadjadji/Desktop/Douaa_Study/M2_isi_2025/PROJECT/Datasets/PIDray/PIDray/PIDray_YOLO
+
+train: train/images
+val: test/images
+test: test/images
+
+names:
+  0: Baton
+  1: Pliers
+  2: Hammer
+  3: Powerbank
+  4: Scissors
+  5: Wrench
+  6: Gun
+  7: Bullet
+  8: Sprayer
+  9: HandCuffs
+  10: Knife
+  11: Lighter
