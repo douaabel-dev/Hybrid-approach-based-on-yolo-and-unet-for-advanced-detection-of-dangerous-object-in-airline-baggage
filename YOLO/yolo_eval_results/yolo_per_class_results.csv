@@ -1,0 +1,27 @@
+    Class,mAP@50-95
+    Baton,0.7563999512398277
+    Pliers,0.8561095901659852
+    Hammer,0.813934356969219
+    Powerbank,0.746698764728378
+    Scissors,0.7530710419244298
+    Wrench,0.8709648451553106
+    Gun,0.3457533345488504
+    Bullet,0.5899189421499286
+    Sprayer,0.5419538592932096
+    HandCuffs,0.8996038254302612
+    Knife,0.3492865234435506
+    Lighter,0.5699472643025059
+
+    YOLO Test Metrics Summary
+
+    Metric    Value
+
+    Precision   0.869
+
+    Recall      0.743
+
+    mAP@50     0.815
+
+
+
+    mAP@50-95    0.674 
